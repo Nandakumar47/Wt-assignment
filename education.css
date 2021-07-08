@@ -1,0 +1,32 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    
+  }
+  
+  td, th {
+    border: 5px solid #212529;
+    text-align: left;
+    padding: 8px;
+    
+  }
+  .education-main-div{
+      padding-top: 200px;
+      height: 580px;
+  } 
+  .navbar{
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 80px;
+    position: fixed;
+    background-color: #212529;
+    width: 100%;
+}
+#navbarSupportedContent{
+    justify-content: flex-end;
+  }
+  .navbar-nav .nav-item{
+    margin-right: 20px;
+}
